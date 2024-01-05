@@ -1,4 +1,4 @@
-# EDA-Application Error Solved
+# EDA Application Error Solved
 
 **ERROR:**
 PydanticImportError: `BaseSettings` has been moved to the `pydantic-settings` package. See [migration guide](https://docs.pydantic.dev/2.5/migration/#basesettings-has-moved-to-pydantic-settings) for more details. For further information visit [Pydantic Errors](https://errors.pydantic.dev/2.5/u/import-error)
